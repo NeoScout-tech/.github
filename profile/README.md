@@ -1,4 +1,5 @@
 # About NeoScout 🚀  
+![NeoScout](https://neoscout.ru/static/images/opengraph.png)
 
 **NeoScout** is a cyberpunk-inspired tech organization born to empower hackers, pentesters, and tech rebels worldwide. 💻🔧 We’re not just another tech crew — we’re a movement that breaks stereotypes, democratizes network security, and builds tools for those who dare to explore the digital frontier. 🌐⚡ With a passion for open-source innovation and a knack for cyberpunk aesthetics, we’re here to redefine how the world interacts with networks.  
 
